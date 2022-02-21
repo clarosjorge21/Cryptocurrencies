@@ -1,1 +1,4 @@
 # Cryptocurrencies
+
+### Purpose
+Martha and I have been working together to learn what unsupervised learning is used for, how to process data, how to cluster, how to reduce your dimensions, and how to reduce the principal components using PCA. We are currently working for an analysis for our client to prepare them in getting into the cryptocurrency market. We are working with Accountability Accounting, an investment bank who is interested in a new cryptocurrency investment portfolio for its customers. We are currently creating a report that includes which cryptocurrencies are currently on the trading market and how they are grouped to create a classification system for this investment. 
